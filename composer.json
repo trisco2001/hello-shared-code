@@ -1,7 +1,7 @@
 {
   "name": "trisco/hello-shared-code",
   "description": "This is some shared code.",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
     {
@@ -10,6 +10,6 @@
     }
   ],
   "require": {
-    "doctrine/orm": "~2.6@dev"
+    "doctrine/orm": "~2.5"
   }
 }
