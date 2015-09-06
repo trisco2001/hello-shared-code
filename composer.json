@@ -1,0 +1,15 @@
+{
+  "name": "trisco/hello-shared-code",
+  "description": "This is some shared code.",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "tristan leonard",
+      "email": "trisco2001@gmail.com"
+    }
+  ],
+  "require": {
+    "doctrine/orm": "~2.6@dev"
+  }
+}
