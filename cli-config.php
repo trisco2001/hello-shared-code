@@ -6,6 +6,7 @@
  * Time: 7:21 AM
  */
 use Doctrine\ORM\Tools\Console\ConsoleRunner;
+use Tristan\SharedCode;
 
 // replace with file to your own project bootstrap
 require_once 'bootstrap.php';
